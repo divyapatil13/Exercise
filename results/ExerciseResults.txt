@@ -1,0 +1,7 @@
+Results for problem#1 are displayed as follows:
+
+There are five values on the screen
+All the values are greater than zero
+Total balance is correct based on the values listed on the screen
+Values are formatted as currencies
+Total balance matches the sum of the values
